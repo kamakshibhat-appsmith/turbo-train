@@ -6,8 +6,9 @@
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
+    "dynamicBindingPathList": [],
     "inputs": {
-      "myFun1": "[]",
+      "myFun1": "[\"2\",\"2\"]",
       "myFun2": "[]"
     },
     "moduleInputs": {
