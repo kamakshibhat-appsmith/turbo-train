@@ -7,7 +7,10 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "dynamicBindingPathList": [],
-    "inputs": {},
+    "inputs": {
+      "input1": "1",
+      "input2": "1"
+    },
     "moduleInputs": {
       "kkjjexvhmx": {},
       "xvwuwqwkfu": {}
