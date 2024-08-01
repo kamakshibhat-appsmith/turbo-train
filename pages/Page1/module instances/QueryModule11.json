@@ -7,16 +7,13 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "dynamicBindingPathList": [],
-    "inputs": {
-      "input1": "2",
-      "input2": "2"
-    },
+    "inputs": {},
     "moduleInputs": {
       "kkjjexvhmx": {},
       "xvwuwqwkfu": {}
     },
     "name": "QueryModule11",
     "pageId": "Page1",
-    "version": "0.0.6"
+    "version": "0.0.7"
   }
 }

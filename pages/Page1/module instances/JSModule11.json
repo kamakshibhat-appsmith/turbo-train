@@ -7,15 +7,13 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "dynamicBindingPathList": [],
-    "inputs": {
-      "myFun1": "[\"2\",\"2\"]"
-    },
+    "inputs": {},
     "moduleInputs": {
       "momlqmywzm": {},
       "xrvrvqeqgg": {}
     },
     "name": "JSModule11",
     "pageId": "Page1",
-    "version": "0.0.6"
+    "version": "0.0.7"
   }
 }
