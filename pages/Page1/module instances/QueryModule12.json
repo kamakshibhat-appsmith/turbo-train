@@ -6,16 +6,13 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {
-      "input1": "2",
-      "input2": "2"
-    },
+    "inputs": {},
     "moduleInputs": {
       "kkjjexvhmx": {},
       "xvwuwqwkfu": {}
     },
     "name": "QueryModule12",
     "pageId": "Page1",
-    "version": "0.0.16"
+    "version": "0.0.17"
   }
 }
