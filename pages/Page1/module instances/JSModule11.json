@@ -8,7 +8,7 @@
     "contextType": "PAGE",
     "dynamicBindingPathList": [],
     "inputs": {
-      "myFun1": "[\"1\",\"1\"]"
+      "myFun1": "[\"3\",\"3\"]"
     },
     "moduleInputs": {
       "momlqmywzm": {},
@@ -16,6 +16,6 @@
     },
     "name": "JSModule11",
     "pageId": "Page1",
-    "version": "0.0.12"
+    "version": "0.0.14"
   }
 }

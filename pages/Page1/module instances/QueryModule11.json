@@ -8,8 +8,8 @@
     "contextType": "PAGE",
     "dynamicBindingPathList": [],
     "inputs": {
-      "input1": "1",
-      "input2": "1"
+      "input1": "3",
+      "input2": "3"
     },
     "moduleInputs": {
       "kkjjexvhmx": {},
@@ -17,6 +17,6 @@
     },
     "name": "QueryModule11",
     "pageId": "Page1",
-    "version": "0.0.12"
+    "version": "0.0.14"
   }
 }
