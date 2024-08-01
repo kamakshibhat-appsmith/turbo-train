@@ -6,7 +6,11 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {},
+    "dynamicBindingPathList": [],
+    "inputs": {
+      "input1": "2",
+      "input2": "2"
+    },
     "moduleInputs": {
       "kkjjexvhmx": {},
       "xvwuwqwkfu": {}
